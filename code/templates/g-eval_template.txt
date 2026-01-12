@@ -1,0 +1,22 @@
+You will evaluate the quality of a candidate summary for a given article. 
+Evaluate the summary on the following dimensions:
+1. Coherence: Does the summary read well and logically flow?
+2. Consistency: Is the summary factually consistent with the article?
+3. Fluency: Is the summary well-formed and grammatically correct?
+4. Relevance: Does the summary capture the most important content of the article?
+
+Rate each dimension on a scale from 1 (worst) to 5 (best).
+
+Article:
+{DOC}
+
+Summary:
+{SUMMARY}
+
+Your scores (JSON format):
+{
+ "Coherence": X,
+ "Consistency": X,
+ "Fluency": X,
+ "Relevance": X
+}
