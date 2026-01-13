@@ -161,11 +161,15 @@ Most notebooks expect that you already generated:
 If you use this code, please cite:
 
 ```
-@article{mohtadi2025summarization_llm_reljudgments,
-  title   = {The Effect of Document Summarization on LLM-Based Relevance Judgments},
-  author  = {Mohtadi, Samaneh and Roitero, Kevin and Mizzaro, Stefano and Demartini, Gianluca},
-  journal = {arXiv preprint arXiv:2512.05334},
-  year    = {2025}
+@inproceedings{mohtadi2026summarization_llm_reljudgments,
+  title        = {The Effect of Document Summarization on LLM-Based Relevance Judgments},
+  author       = {Mohtadi, Samaneh and Roitero, Kevin and Mizzaro, Stefano and Demartini, Gianluca},
+  booktitle    = {Proceedings of the 48th European Conference on Information Retrieval (ECIR 2026)},
+  year         = {2026},
+  eprint       = {2512.05334},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.IR},
+  url          = {https://arxiv.org/abs/2512.05334}
 }
 ```
 # Acknowledgements
