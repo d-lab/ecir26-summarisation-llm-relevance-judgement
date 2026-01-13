@@ -5,7 +5,7 @@
     <img alt="paper" src="https://img.shields.io/badge/arXiv-2512.05334-b31b1b.svg">
   </a>
   <img alt="python" src="https://img.shields.io/badge/Python-3.10%2B-blue.svg">
-  <img alt="license" src="https://img.shields.io/badge/License-MIT%20(or%20your%20choice)-green.svg">
+  <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg">
 </p>
 
 **Paper:** _The Effect of Document Summarization on LLM-Based Relevance Judgments_  
