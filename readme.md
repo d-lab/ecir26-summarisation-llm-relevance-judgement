@@ -10,6 +10,7 @@
 
 **Paper:** _The Effect of Document Summarization on LLM-Based Relevance Judgments_  
 **Authors:** Samaneh Mohtadi, Kevin Roitero, Stefano Mizzaro, Gianluca Demartini  
+**Conference:** The 48th European Conference on Information Retrieval (ECIR 2026).  
 **arXiv:** 2512.05334 — https://arxiv.org/pdf/2512.05334
 
 ---
